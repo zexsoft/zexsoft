@@ -1,8 +1,12 @@
 Zexsoft is an indie developer bringing innovation & fun together.
 
+
 INDY    https://indy.zsft.space/
+
 Itch.io https://zexsoft.itch.io/
+
 YouTube https://youtube.com/channel/UC3wXG…
+
 Twitter https://twitter.com/zexsoft
 
 <!---
