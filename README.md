@@ -1,5 +1,8 @@
 Zexsoft is an indie developer bringing innovation & fun together. From the all-new INDY Market to AI-driven IDEs and fully ray-traced rendering, Zexsoft is at the bleeding edge of all that technology and software entails. With even more products on the horizon, we're expanding tech one step at a time.
 
+![Alt text](Zexsoft)
+<img src="https://zexsoft.eu/media/Logo.svg">
+
 INDY       https://indy.zsft.space/
 
 Itch.io    https://zexsoft.itch.io/
